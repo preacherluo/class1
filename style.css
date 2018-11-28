@@ -1,0 +1,83 @@
+body {
+    background-color: #AEFFAC;
+}
+h1 {
+    color: #99FFFF;
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 5px 5px 5px black;
+    
+}
+p {
+    color: white;
+    font-size: 40px;
+}
+h2 {
+    color: #CC0066;
+    text-align: center;
+    font-size: 60px;
+    text-shadow: 5px 5px 5px black;
+}
+h3 {
+    color: #FF0000;
+    text-align: center;
+    font-size: 80px;
+    text-shadow: 5px 5px 5px black;
+}
+
+.header {
+    color: white;
+    text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    line-height:100px;
+    background-color: #680000;
+    float: left;
+}
+#header2 {
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    background-color: #680000;
+    float: left;
+}
+
+#annoyance {
+    color: white;
+    text-align: center;
+    width: 25%;
+    height: 250px;
+    line-height:125px;
+    background-color: #FFB96C;
+    float: left;
+}
+#time {
+    color: white;
+    text-align: center;
+    width: 25%;
+    height: 250px;
+    line-height:125px;
+    background-color: #E05656;
+    float: left;
+}
+#money {
+    color: white;
+    text-align: center;
+    width: 25%;
+    height: 250px;
+    line-height:125px;
+    background-color: #F1EE61;
+    float: left;
+}
+
+#ability {
+    color: white;
+    text-align: center;
+    width: 25%;
+    height: 250px;
+    line-height:125px;
+    background-color: #41A6F8;
+    float: left;
+}
